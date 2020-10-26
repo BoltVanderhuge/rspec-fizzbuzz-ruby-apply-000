@@ -6,7 +6,7 @@ def fizzbuzz(int)
    puts "Buzz"
   
   elsif int = 15
-   puts "Fizzbuzz"
+   puts "FizzBuzz"
     
   else 
    puts "nil"
